@@ -1,0 +1,54 @@
+{
+  "_id": {
+    "$oid": "60815404487638516a87e9bb"
+  },
+  "questionId": 1,
+  "externalId": 147,
+  "questionText": "Alles in allem, wie zufrieden sind Sie mit Ihrer Bank insgesamt?",
+  "type": {
+    "value": "scale",
+    "label": "Scale"
+  },
+  "translations": [
+    {
+      "langCode": "it",
+      "language": "Italian",
+      "traslatedText": "Nel complesso, quanto è soddisfatto della Sua banca?"
+    }
+  ],
+  "alternatives": [
+    {
+      "alternativeId": 1,
+      "alternativeQuestionText": "Alles in allem, wie zufrieden sind Sie mit Ihrer Sparkasse insgesamt?",
+      "translations": [
+        {
+          "langCode": "it",
+          "language": "Italian",
+          "traslatedText": "Nel complesso, quanto è soddisfatto della banca Sparkasse?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "valueRate": 1,
+      "optionText": "begeistert",
+      "enabled": true,
+      "ignore": false,
+      "translations": [
+        {
+          "langCode": "it",
+          "language": "Italian",
+          "traslatedText": "entusiasta"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Productivity",
+    "Service",
+    "Quality"
+  ],
+  "createdBy": "admin@emotion-banking.at",
+  "updatedBy": "admin@emotion-banking.at"
+}

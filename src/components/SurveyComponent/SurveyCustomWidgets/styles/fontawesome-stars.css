@@ -1,0 +1,54 @@
+.br-theme-fontawesome-stars .br-widget {
+  height: 55px;
+  white-space: nowrap;
+}
+.br-theme-fontawesome-stars .br-widget a {
+  font: normal normal normal 45px/1 FontAwesome;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  text-decoration: none;
+  margin-right: 2px;
+}
+
+.br-theme-fontawesome-stars .br-widget a:after {
+  content: '\f005';
+  color: #d2d2d2;
+}
+
+.br-theme-fontawesome-stars .br-widget a[data-rating-value="none"]:after {
+  content: "\20E0";
+  color: #d2d2d2;
+  margin: 20px;
+  font-size: 45px;
+}
+
+.br-theme-fontawesome-stars .br-widget a[data-rating-value="6"]:after {
+  content: "\20E0";
+  color: #d2d2d2;
+  margin: 20px;
+  font-size: 45px;
+}
+
+.br-theme-fontawesome-stars .br-widget a.br-active:after {
+  color: #EDB867;
+}
+.br-theme-fontawesome-stars .br-widget a.br-selected:after {
+  color: #EDB867;
+}
+.br-theme-fontawesome-stars .br-widget .br-current-rating {
+  display: none;
+}
+.br-theme-fontawesome-stars .br-readonly a {
+  cursor: default;
+}
+@media print {
+  .br-theme-fontawesome-stars .br-widget a:after {
+    content: '\f006';
+    color: black;
+  }
+  .br-theme-fontawesome-stars .br-widget a.br-active:after,
+  .br-theme-fontawesome-stars .br-widget a.br-selected:after {
+    content: '\f005';
+    color: black;
+  }
+}

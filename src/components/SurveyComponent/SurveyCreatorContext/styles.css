@@ -1,0 +1,107 @@
+
+body #creatorElement .svd-textitems-column .svd-itemvalue-action {
+  display:block!important;
+}
+
+
+
+.svd_container  {
+  --primary-hover-color: #ff8800!important;
+  --selection-border-color: #ff8800!important;
+}
+
+.svd_container .svd_q_selected {
+  border: 3px solid #ff8800!important;
+  border-radius: 6px!important;
+  --primary-hover-color: #ff8800!important;
+  --selection-border-color: #ff8800!important;
+}
+
+
+body #creatorElement .svd_container .svd_question  {
+  --primary-color: #ff8800;
+  --secondary-color: #ff8800;
+  --primary-text-color: #676a6c;
+  --secondary-text-color: #a7a7a7;
+  --inverted-text-color: #ffffff;
+  --primary-hover-color: #ff8800;
+  --selection-border-color: #ff8800;
+  --primary-icon-color: #3d4d5d;
+  --primary-bg-color: #fff;
+  --secondary-bg-color: #f4f4f4;
+  --primary-border-color: #e7eaec;
+  --secondary-border-color: #ddd;
+  --error-color: #ed5565;
+}
+
+body #creatorElement .svd_commercial_product {
+  display:none!important;
+}
+
+#creatorElement > div > div > div:nth-child(1) > div > div > div > a > span:nth-child(1) > svg-icon > svg > use {
+  display:none!important;
+}
+
+.svda-question-actions {
+  --primary-color: #1ab394;
+  --secondary-color: #1ab394;
+}
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(2) > div{
+  display:none!important;
+}
+
+
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(1) > div{
+  display:none!important;
+}
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(4) > div{
+  display:none!important;
+}
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(3) > div {
+  display:none!important;
+}
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(5) > div {
+  display:none!important;
+}
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(6) > div {
+  display:none!important;
+}
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(7) > div {
+  display:none!important;
+}
+
+/* #creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(8) > div {
+  display:none!important;
+} */
+
+/* #creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(9) > div {
+  display:none!important;
+} */
+
+/* #creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(10) > div {
+  display:none!important;
+} */
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(11) > div {
+  display:none!important;
+}
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(12) > div {
+  display:none!important;
+}
+
+#creatorElement > div > div > div:nth-child(2) > div > div > div > div.panel.card.svd_content.svd-dark-bg-color > div:nth-child(1) > div > svd-designer-container > div.svd-designer-container > div > div:nth-child(2) > div > div > div > div.svd-designer-tabbed-container__tab-content.svd-designer-tabbed-container__tab-content-active > div > svd-toolbox > div > svd-toolbox-item:nth-child(13) > div {
+  display:none!important;
+}
+
+
+
+
+
